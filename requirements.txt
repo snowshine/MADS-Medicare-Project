@@ -1,0 +1,2 @@
+pandas-profiling[notebook]
+koalas
