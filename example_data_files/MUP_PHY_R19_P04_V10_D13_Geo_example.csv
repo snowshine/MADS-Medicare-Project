@@ -1,0 +1,119 @@
+Rndrng_Prvdr_Geo_Lvl,Rndrng_Prvdr_Geo_Cd,Rndrng_Prvdr_Geo_Desc,HCPCS_Cd,HCPCS_Desc,HCPCS_Drug_Ind,Place_Of_Srvc,Tot_Rndrng_Prvdrs,Tot_Benes,Tot_Srvcs,Tot_Bene_Day_Srvcs,Avg_Sbmtd_Chrg,Avg_Mdcr_Alowd_Amt,Avg_Mdcr_Pymt_Amt,Avg_Mdcr_Stdzd_Amt
+National,,National,00100,Anesthesia for procedure on salivary gland with biopsy,N,F,9678,8629,12419,12415,1463.4581263,228.00370239,180.74465496,184.70256623
+National,,National,00100,Anesthesia for procedure on salivary gland with biopsy,N,O,6,12,13,13,1086.4153846,169.17538462,120.89538462,126.69461538
+National,,National,00102,Anesthesia for procedure to repair lip defect present at birth,N,F,66,58,74,73,1552.8593243,193.43378378,152.90148649,158.59540541
+National,,National,00103,Anesthesia for procedure on eyelid,N,F,21988,94420,126633,126564,847.13813066,150.98895256,118.80683716,121.14216642
+National,,National,00103,Anesthesia for procedure on eyelid,N,O,93,299,329,328,1189.9956535,200.84656535,159.11638298,156.52805471
+National,,National,00104,Anesthesia for electric shock treatment,N,F,12483,12760,187916,187881,551.6274735,75.28142271,59.326034984,70.798281892
+National,,National,00104,Anesthesia for electric shock treatment,N,O,29,26,104,104,282.37634615,80.859038462,64.206730769,88.086634615
+National,,National,00120,Anesthesia for biopsy of external middle and inner ear,N,F,13230,16193,23810,23804,1227.2547161,194.83037295,154.08470559,158.18673583
+National,,National,00124,Anesthesia for examination and biopsy of external middle and inner ear using an endoscope,N,F,1055,794,1148,1148,591.11696864,95.537482578,73.875156794,76.181986063
+National,,National,00126,Anesthesia for incision of ear drum,N,F,7841,8598,12579,12579,563.21226648,90.964935209,71.595319183,73.780137531
+National,,National,00140,Anesthesia for procedure on eye,N,F,23743,93745,139296,139240,826.14952224,146.58655963,115.72309004,117.21978406
+National,,National,00140,Anesthesia for procedure on eye,N,O,59,103,125,125,1399.70768,172.03048,137.26424,134.04808
+National,,National,00142,Anesthesia for lens surgery,N,F,41914,1106563,2111334,2111166,571.39921506,102.84489623,81.29801005,82.926692158
+National,,National,00142,Anesthesia for lens surgery,N,O,210,2001,2924,2923,928.10411765,120.99144323,96.306692886,93.949172367
+National,,National,00144,Anesthesia for procedure on eye for corneal transplant,N,F,7888,17157,26514,26494,1065.6361888,172.09396885,135.60150223,137.64152523
+National,,National,00145,Anesthesia for retinal surgery,N,F,19529,84276,132825,132814,1024.5599694,171.16792102,135.48649569,137.85187427
+National,,National,00145,Anesthesia for retinal surgery,N,O,34,297,347,347,1191.9223919,190.09023055,151.59786744,156.90256484
+National,,National,00147,Anesthesia for procedure on eye for removal of iris,N,F,437,709,989,989,787.43265925,128.78688574,101.47199191,101.38722952
+National,,National,00148,Anesthesia for eye examination using an endoscope,N,F,884,669,1105,1105,687.20095023,102.6801086,79.49758371,80.31839819
+National,,National,0015F,Melan follow-up complete,N,O,1,16,16,16,0.01,0.01,0,0
+National,,National,00160,Anesthesia for procedure on nose and sinus,N,F,30575,51773,74954,74913,1055.8791283,171.15190597,135.42308763,139.14854738
+National,,National,00160,Anesthesia for procedure on nose and sinus,N,O,52,319,326,326,749.26751534,184.82389571,145.64855828,151.69337423
+National,,National,00162,Anesthesia for surgery of nose and sinus,N,F,850,690,967,967,2366.9757911,345.56031024,274.81224405,277.65793175
+National,,National,00164,Anesthesia for soft tissue biopsy on nose and sinus,N,F,265,284,338,337,834.01174556,131.46168639,103.71633136,109.15056213
+National,,National,00170,Anesthesia for procedure on mouth including biopsy,N,F,19220,23798,34559,34546,1035.2691872,160.69118262,124.57735988,127.51641859
+National,,National,00170,Anesthesia for procedure on mouth including biopsy,N,O,124,527,605,604,668.47538843,150.3307438,116.40958678,116.03
+National,,National,00172,Anesthesia for procedure on mouth to repair palate deformity,N,F,63,49,64,64,1597.75625,247.9659375,192.34296875,200.3790625
+National,,National,00174,Anesthesia for procedure on throat for removal of tumor,N,F,45,37,48,48,1067.1172917,196.48458333,156.5975,160.10208333
+National,,National,00176,Anesthesia for surgery on mouth,N,F,1747,1457,2143,2143,3148.4657629,456.53235184,363.31829678,366.78437704
+National,,National,00190,Anesthesia for procedure on facial bones or skull,N,F,9120,8301,12317,12312,1356.647225,206.26192417,162.42568645,165.41483478
+National,,National,00190,Anesthesia for procedure on facial bones or skull,N,O,9,11,13,13,1194.7715385,173.75923077,138.53538462,135.59769231
+National,,National,00192,Anesthesia for surgery of facial bones or skull,N,F,2142,1671,2400,2400,2201.3198417,325.53505833,258.55047917,263.56860833
+National,,National,0019T,Low energy shock wave therapy of musculoskeletal system,N,O,30,64,231,212,601.36277056,257.72835498,204.77748918,204.77748918
+National,,National,00210,Anesthesia for procedure on brain,N,F,16356,24203,35221,35206,2701.1248082,425.07493825,338.45114392,343.80368019
+National,,National,00211,Anesthesia for procedure to remove blood collection in brain,N,F,10709,10582,15537,15521,2043.7308541,320.97747506,255.08074081,258.22588659
+National,,National,00212,Anesthesia for procedure to remove fluid in brain,N,F,98,78,109,109,943.53055046,152.61917431,121.6866055,123.46752294
+National,,National,00214,Anesthesia for procedure to create holes in skull including X-ray imaging,N,F,7654,6840,9836,9834,1616.8859608,253.41552969,201.24309374,204.22751322
+National,,National,00215,Anesthesia for procedure to repair skull or skull fracture,N,F,1589,1200,1787,1787,2030.1101735,316.92872412,251.2559765,254.44101847
+National,,National,00216,Anesthesia for procedure on blood vessel in brain,N,F,2499,2533,3440,3439,3523.3570494,557.41543895,443.53609302,449.3701686
+National,,National,00218,Anesthesia for procedure on brain patient in sitting position,N,F,548,483,639,639,3164.6490767,462.79906103,368.08377152,368.78463224
+National,,National,00220,Anesthesia for procedure to drain brain and spinal cord fluid,N,F,9152,8236,13832,13826,1841.6510823,285.70578803,227.1175629,229.83906304
+National,,National,00222,Anesthesia for procedure on nerve in brain,N,F,489,511,772,772,981.47838083,164.635,130.35993523,131.87089378
+National,,National,00300,Anesthesia for procedure on esophagus and neck,N,F,56910,164145,254399,254291,1013.101203,161.47165728,127.52657955,130.37637098
+National,,National,00300,Anesthesia for procedure on esophagus and neck,N,O,239,946,1542,1542,897.82018807,162.7975227,128.74497406,137.20483787
+National,,National,00320,"Anesthesia for procedure on esophagus and neck, age 1 year or older",N,F,48821,112030,173022,172939,1311.0060568,201.17151634,159.60701726,162.38982673
+National,,National,00320,"Anesthesia for procedure on esophagus and neck, age 1 year or older",N,O,33,36,42,42,980.49547619,248.30714286,195.12404762,184.83404762
+National,,National,00322,Anesthesia for needle biopsy of thyroid,N,F,118,102,130,130,797.79653846,111.00430769,87.649076923,88.598384615
+National,,National,00350,Anesthesia for procedure of major blood vessels of neck,N,F,25991,48288,70727,70558,1962.6660875,321.92499187,255.80805421,261.63891159
+National,,National,00350,Anesthesia for procedure of major blood vessels of neck,N,O,16,18,23,23,2213.2347826,392.43782609,313.03,319.29304348
+National,,National,00352,Anesthesia for tying procedure on major blood vessels of neck,N,F,10154,9165,13065,13063,905.32299043,144.32465595,114.48561806,116.2090333
+National,,National,00352,Anesthesia for tying procedure on major blood vessels of neck,N,O,10,17,17,17,1606.7194118,200.37882353,159.76882353,149.49882353
+National,,National,00400,Anesthesia for procedure on skin of arms legs or trunk,N,F,64616,275561,443818,443699,771.1789167,117.2286884,92.436228071,94.016458143
+National,,National,00400,Anesthesia for procedure on skin of arms legs or trunk,N,O,326,1539,1690,1690,794.73684615,122.59293491,97.208420118,94.208674556
+National,,National,00402,Anesthesia for breast reconstruction,N,F,19681,20389,34980,34972,1567.9832893,239.0401518,188.4845769,192.25523985
+National,,National,00402,Anesthesia for breast reconstruction,N,O,27,33,42,42,1569.8619048,216.12142857,172.29619048,167.43857143
+National,,National,00404,Anesthesia for removal of breast,N,F,12159,13401,18225,18221,1348.2211221,220.21238957,174.61921646,178.73434897
+National,,National,00406,Anesthesia for removal of breast and lymph nodes,N,F,405,510,604,604,1807.2363907,332.28713576,263.99758278,273.62942053
+National,,National,00410,Anesthesia for procedure to correct abnormal heart rhythm,N,F,25274,50672,81888,81840,532.90071525,84.123059423,66.166261968,67.189985346
+National,,National,00410,Anesthesia for procedure to correct abnormal heart rhythm,N,O,33,49,54,54,746.46648148,104.27592593,83.123518519,83.058333333
+National,,National,0042T,"Computed tomography (CT) brain blood flow, volume, and timing of flow analysis",N,F,54,57,59,59,489.16542373,210.8979661,168.12050847,168.12050847
+National,,National,00450,Anesthesia for procedure on collar bone and shoulder blade,N,F,4301,3384,4799,4799,1232.8039175,193.69717441,153.30040842,158.13649719
+National,,National,00452,Anesthesia for surgery of collar bone and shoulder blade,N,F,97,72,99,99,2009.3007071,262.4469697,209.26717172,210.42292929
+National,,National,00454,Anesthesia for biopsy of collar bone,N,F,148,110,155,155,981.57232258,123.19290323,97.554645161,96.047096774
+National,,National,00470,Anesthesia for partial removal of rib,N,F,2051,1675,2247,2247,1388.9712906,216.49152203,171.25001335,174.6400534
+National,,National,00472,Anesthesia for partial removal of rib and chest wall repair,N,F,387,308,407,407,2292.8782801,360.28511057,286.38653563,292.02425061
+National,,National,00474,Anesthesia for partial removal of rib and chest wall reconstruction,N,F,188,134,194,194,2510.1280928,432.73582474,345.18324742,355.18154639
+National,,National,00500,Anesthesia for procedure on esophagus,N,F,2785,2942,3841,3841,3679.3225749,587.62066649,467.92168706,476.35194481
+National,,National,00520,Anesthesia for procedure in chest,N,F,31850,71924,114124,114087,1004.1952022,155.61852292,123.41743314,124.74576338
+National,,National,00520,Anesthesia for procedure in chest,N,O,27,43,45,45,950.676,206.98044444,165.11422222,166.798
+National,,National,00522,Anesthesia for needle biopsy of lung,N,F,1171,1209,1818,1816,1076.8722497,130.83825083,103.8690044,103.00727723
+National,,National,00522,Anesthesia for needle biopsy of lung,N,O,4,15,15,15,786,154.15133333,122.92266667,119.854
+National,,National,00524,Anesthesia for drainage of lung fluid,N,F,853,735,999,999,926.55063063,129.21637638,102.50578579,103.41580581
+National,,National,00528,Anesthesia for diagnostic examination of chest using an endoscope,N,F,7899,8749,11975,11972,1512.4785461,238.44853361,189.61516326,192.56484092
+National,,National,00529,Anesthesia for diagnostic examination of chest using an endoscope with 1 lung ventilation,N,F,4418,4497,5994,5994,2001.0953337,315.11949616,250.81989823,255.06007674
+National,,National,00530,Anesthesia for insertion of permanent heart pacemaker,N,F,20067,46512,66494,66441,1112.341837,165.23788477,130.81273513,130.7007736
+National,,National,00532,Anesthesia for central vein access,N,F,41409,100301,151379,151334,794.86275243,125.93542103,99.79115485,101.95670575
+National,,National,00532,Anesthesia for central vein access,N,O,102,429,501,501,713.0245509,162.59063872,129.77369261,127.91129741
+National,,National,00534,Anesthesia for insertion or replace of pacing heart defibrillator,N,F,8988,15314,20496,20486,1554.416755,247.73819428,196.44329137,198.15040301
+National,,National,00534,Anesthesia for insertion or replace of pacing heart defibrillator,N,O,3,18,18,18,706.22222222,281.84111111,224.77777778,247.48055556
+National,,National,00537,Anesthesia for procedure on heart to correct abnormal rhythm,N,F,21624,66494,99746,99711,2105.948775,287.68873589,228.38832384,230.69941902
+National,,National,00537,Anesthesia for procedure on heart to correct abnormal rhythm,N,O,17,22,26,26,1729.8784615,242.66384615,193.51115385,204.75538462
+National,,National,00539,Anesthesia for reconstruction of wind pipe and lung airway,N,F,206,187,230,230,3734.3951739,642.63404348,512.25126087,515.70034783
+National,,National,00540,Anesthesia for procedure in chest,N,F,8688,10871,14428,14419,2293.2062635,368.58193928,293.3604623,297.46062725
+National,,National,00541,Anesthesia for procedure in chest with 1 lung ventilation,N,F,17050,34040,45866,45836,2735.1293169,452.19827301,360.15154079,365.38204531
+National,,National,00542,Anesthesia for removal of lung lining,N,F,5159,5127,6808,6807,2717.5043934,437.69653055,348.78450793,354.08740159
+National,,National,00546,Anesthesia for lung removal and chest wall repair,N,F,101,95,119,119,3249.5883193,504.78529412,401.51689076,412.98663866
+National,,National,00548,Anesthesia for procedure on wind pipe and airway,N,F,292,284,360,360,2639.04425,444.74488889,354.27752778,367.405
+National,,National,0054T,"Computer-assisted, fluoroscopic image-guided musculoskeletal surgical navigational orthopedic operation",N,F,15,166,175,175,696.69714286,144.24382857,115.10548571,115.10548571
+National,,National,00550,Anesthesia for removal of breast bone tissue,N,F,3876,3107,5344,5342,1870.8367216,310.42766093,247.23225112,250.67763847
+National,,National,0055T,Musculoskeletal surgical navigational orthopedic operation using imaging guidance,N,F,24,135,142,142,512.90316901,140.72859155,112.26598592,112.26598592
+National,,National,00560,Anesthesia for procedure on heart and great blood vessels,N,F,9848,20749,27144,27084,2778.5480043,464.71722296,370.25105032,374.26638705
+National,,National,00561,"Anesthesia for procedure on heart and great blood vessels on heart-lung machine, younger than 1 year of age",N,F,24,17,24,24,3445.84375,683.59291667,544.99958333,559.83666667
+National,,National,00562,"Anesthesia for procedure on heart and great blood vessels on heart-lung machine, age 1 year or older, or re-operation more than 1 month after original procedure",N,F,9915,55832,68231,68191,4244.965092,766.48977415,611.20251205,620.29153728
+National,,National,00563,Anesthesia for procedure on heart and great blood vessels on heart-lung machine,N,F,1929,4926,5726,5723,5366.97073,926.47457387,739.47015718,747.77976598
+National,,National,00566,Anesthesia for heart artery bypass grafting,N,F,3775,10274,12283,12279,4283.3383164,759.29131401,605.28292111,621.43756248
+National,,National,00567,Anesthesia for heart artery bypass grafting on heart-lung machine,N,F,10111,49609,61420,61396,3866.8768668,677.99304347,540.58469668,554.0377815
+National,,National,00580,Anesthesia for heart or heart-lung transplant,N,F,737,1321,1558,1556,5847.9246855,1003.8176701,800.51396662,811.61774711
+National,,National,00600,Anesthesia for procedure on upper spine and spinal cord,N,F,11827,15388,21893,21881,2001.4573928,311.29657562,247.21810122,253.9384237
+National,,National,00600,Anesthesia for procedure on upper spine and spinal cord,N,O,39,187,318,318,1197.6992453,245.95289308,194.06849057,190.06216981
+National,,National,00604,"Anesthesia for procedure on spine and spinal cord, patient in sitting position",N,F,457,377,532,532,2227.9170677,357.92924812,284.32058271,297.02951128
+National,,National,00620,Anesthesia for procedure on middle spine and spinal cord,N,F,8069,8339,11660,11656,1925.0787967,309.05019468,245.77855403,252.08770497
+National,,National,00620,Anesthesia for procedure on middle spine and spinal cord,N,O,23,44,64,64,1005.0934375,265.8421875,211.48359375,214.04984375
+National,,National,00625,Anesthesia for procedure on middle spine and spinal cord,N,F,378,337,453,453,3287.0797572,495.97408389,394.69878587,401.10737307
+National,,National,00626,Anesthesia for procedure on middle spine and spinal cord with 1 lung ventilation,N,F,275,228,288,288,3643.7051736,617.40392361,492.234375,498.92815972
+National,,National,00630,Anesthesia for procedure on lower spine,N,F,37320,93864,138367,138344,1636.3940317,259.18634414,205.67121402,211.31976859
+National,,National,00630,Anesthesia for procedure on lower spine,N,O,119,1097,2026,2026,1121.064536,206.68926456,162.38065647,159.98748272
+National,,National,00632,Anesthesia for removal of nerves in lower spine,N,F,66,66,84,84,1487.7409524,212.34619048,169.01452381,171.10452381
+National,,National,00635,Anesthesia for spinal tap,N,F,1749,1819,3150,3150,876.14061905,138.90307619,109.63442222,112.5490127
+National,,National,00635,Anesthesia for spinal tap,N,O,7,92,144,144,578.125,114.95597222,91.590694444,95.015138889
+National,,National,00640,Anesthesia for manipulation of spine,N,F,846,861,1302,1302,930.12344086,120.32284946,95.864807988,95.9053149
+National,,National,00640,Anesthesia for manipulation of spine,N,O,11,90,114,114,778.28929825,168.47421053,133.91280702,139.35035088
+National,,National,00670,Anesthesia for procedure of spine and spinal cord,N,F,38447,143179,211547,211502,2679.4773202,424.25223175,337.43340062,346.08496986
+National,,National,00670,Anesthesia for procedure of spine and spinal cord,N,O,11,11,12,12,3000.1466667,569.88833333,444.97666667,445.78583333
+National,,National,00700,Anesthesia for procedure on upper front abdominal wall,N,F,12985,12025,17893,17882,1000.0445705,145.75380819,115.50218354,116.78418879
+National,,National,00702,Anesthesia for liver biopsy,N,F,1173,1138,1542,1542,1006.5100908,133.45625162,105.06417639,105.16131647
+National,,National,00702,Anesthesia for liver biopsy,N,O,9,19,19,19,790.68421053,166.36368421,132.78,128.96210526
+National,,National,00730,Anesthesia for procedure on upper rear abdominal wall,N,F,1216,941,1474,1473,1050.7955834,151.6529308,119.9679308,121.63833786
+
