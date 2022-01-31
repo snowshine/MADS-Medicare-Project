@@ -1,3 +1,4 @@
 pandas-profiling[notebook]
 koalas
 xgboost
+lightgbm
